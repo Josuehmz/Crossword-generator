@@ -1,0 +1,2 @@
+# Crossword generator
+ This code is a crossword generator program that prompts the user to input the number of words, their maximum length, and the dimensions of the grid. Then it generates a crossword grid by placing the words in random positions and directions on the grid, fills the remaining spaces with random letters, and converts the grid to a string. Finally, it prints the generated crossword and asks the user if they want to generate another crossword.
